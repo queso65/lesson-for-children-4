@@ -2,6 +2,11 @@ body {
     font-family: sans-serif;
 }
 
+header {
+    background-color: url('https://learn.algoritmika.org/uploads/2020/12/header_0_1609082687.svg');
+}
+
+
 nav {
     margin-top:30px;
 }
