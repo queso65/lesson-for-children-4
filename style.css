@@ -38,6 +38,10 @@ main img {
     margin-left:20px;
 }
 
+p {
+    margin-left:15px;
+}
+
 .text {
     border-top: 2px solid black;
     border-bottom: 2px solid black;
