@@ -3,67 +3,69 @@ body {
 }
 
 header {
-    background-color: url('https://learn.algoritmika.org/uploads/2020/12/header_0_1609082687.svg');
+    background-color:#00B454;
+    padding:5px;
 }
 
+header img {
+    width:35px;
+    height:30px;
+}
 
 nav {
-    margin-top:30px;
+    margin-top:10px;
+    margin-left:70px;
 }
-
-nav a{
-    text-decoration:none;
-    color:black;
-    font-size:20px;
-    margin-left:80px;
-    border-bottom:3px solid black;
-}
-
-main {
-    padding-left:20px;
-    padding-right:20px;
+nav a {
+    background-color:#36DA82;
+    color:white;
+    padding:5px;
+    margin-left:40px;
 }
 
 h1 {
-    font-size:40px;
-    font-weight:normal;
-    margin-top:60px;
-    margin-bottom:60px;
     text-align:center;
 }
 
-.text-container {
-    text-align:center;
+h2 {
+    margin-left:10px;
+    margin-right:10px;
 }
 
 main img {
-    border-left:10px dotted black;
-    margin-left:30px;
+    width:140px;
+    height:90px;
+    margin-left:20px;
 }
 
 .text {
-    margin-top:50px;
-    margin-bottom:50px;
-    border:2px solid black;
-    border-radius:10px;
-    padding:10px;
-    font-size:20px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.pictures {
+    margin-left:15px;
 }
 
 
 footer {
-    padding:10px 15px 10px 15px;
-    background-color:black;
+    padding:15px;
+    background-color:#00B454;
 }
 
-footer p {
+footer p{
     margin:0;
-    font-size:20px;
-    background-color:white;
-    padding:5px;
 }
 
-.address {
-    margin-top:15px;
+.tel {
+    margin-top:10px;
+}
+
+li {
+    font-size:17px;
+    list-style: url(https://github.com/queso65/lesson-for-children-4/blob/main/result_pngegg.png?raw=true
+)
 }
 
